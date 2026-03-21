@@ -1,4 +1,7 @@
-streamlit
-pandas
-plotly
-numpy
+streamlit 
+pandas 
+numpy 
+fstreamlit_echarts  st_echarts, 
+JsCode
+pydeck 
+gc
