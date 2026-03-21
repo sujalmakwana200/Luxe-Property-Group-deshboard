@@ -1,7 +1,7 @@
 streamlit 
 pandas 
 numpy 
-streamlit_echarts  st_echarts, 
+streamlit_echart
 JsCode
 pydeck 
 gc
