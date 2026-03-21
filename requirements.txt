@@ -1,7 +1,5 @@
-streamlit 
-pandas 
-numpy 
-streamlit_echart
-JsCode
-pydeck 
-gc
+streamlit
+pandas
+numpy
+streamlit-echarts
+pydeck
